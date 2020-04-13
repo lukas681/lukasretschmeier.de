@@ -4,20 +4,20 @@ baseURL = "https://lukasretschmeier.netlify.com/"
 languageCode = "de"
 title = "Lukas Retschmeier"
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-163506805-1"
 
 
 [params]
-    author = "CowboySmall"
-    description = "My personal resume"
+    author = "Lukas Retschmeier"
+    description = "Lukas Retschmeier Resume"
 
-    primaryColor = "#54B689"
+    primaryColor = "#4DEEFF"
     textPrimaryColor = "#292929"
 
     [params.profile]
         enable = true
         name = "Lukas Retschmeier"
-        tagline = "Junior IT Consultant PLM"
+        tagline = "Junior IT Consultant PLM, Developer"
         avatar = "avatar.png"
 
     [params.contact]
@@ -73,11 +73,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         university = "Technical University Mannheim"
         dates = "2019 - ongoing"
         [[params.education.list]]
-        degree = "BSc Informatics"
+        degree = "BSc in Computer Science (ECTS Grade A, 1.4)"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
         dates = "2015 - 2018"
         [[params.education.list]]
-        degree = "A-Levels"
+        degree = "A-Levels (1.8)"
         university = "Gymnasium Dingolfing"
         dates = "2007 - 2015"
 
@@ -95,50 +95,29 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.languages]
         enable = true
-
         [[params.languages.list]]
-        name = "English"
-        level = "Native"
+           name = "German"
+         level = "Native"
         [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
-
-
-
-
-
-
-
+            name = "English"
+            level = "Business Fluent, C1"
+        [[params.languages.list]]
+          name = "Latin"
+           level = "Latinum"
 
     [params.interests]
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Piano"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Volleyball"
         [[params.interests.list]]
-        name = "Photography"
-        [[params.interests.list]]
-        name = "Travelling"
-
-
-
-
-
-
-
+        name = "Reading"
 
     [params.summary]
         enable = true
         text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-
-
-
-
-
-
 
     [params.experience]
         enable = true
@@ -190,15 +169,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
 
 
-
-
-
-
-
-
-
-
-
     [params.projects]
         enable = true
 
@@ -217,15 +187,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
-
-
-
-
-
-
-
-
-
     [params.information]
         enable = true
 
@@ -238,31 +199,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
-
-
-
-
-
-
-
+        details = "Piano, Volleyball, Reading"
 
     [params.social]
         enable = true
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/lukas681"
+        title = "lukas681"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
-        [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
-
+        url = "//linkedin.com/in/lukas-retschmeier-024a64117"
+        title = "lukas-retschmeier"
 
 
 
