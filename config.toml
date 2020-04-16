@@ -118,7 +118,7 @@ googleAnalytics = "UA-163506805-1"
 
     [params.summary]
         enable = true
-        text = "xxxxxxx"
+        text = "Hi There! I am a PLM Consultant and Software Developer from Munich. I am currently doing my Masters in Informatics at TU Munich with a focus on Algorithms and Complexity."
 
     [params.experience]
         enable = true
