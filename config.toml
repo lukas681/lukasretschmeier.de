@@ -27,7 +27,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:+4915254548176"
-        text = "1525 45 58 176"
+        text = "1525 45 48 176"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:retschmeier.lukas@gmail.com"
@@ -41,31 +41,37 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "Core Competences"
         [[params.skills.list.items]]
-        details = "Java"
+        details = "Agile Software Development: Java, JavaScript, C++"
         [[params.skills.list.items]]
-        details = "Containerization (Docker)"
+        details = "Teamcenter Customizing & Configuration"
         [[params.skills.list.items]]
-        details = "IR Systems (Elastic Stack)"
+        details = "Linux Systems & Containerization: Docker"
         [[params.skills.list.items]]
-        details = "JavaScript: React/Vue"
+        details = "Fullstack Webdevelopment: React, Express"
+        [[params.skills.list.items]]
+        details = "IR Systems & Search Engines: Elastic Stack"
         
+
+        [[params.skills.list]]
+        title = "Academic"
+        [[params.skills.list.items]]
+        details = "Algorithms, Datastructures & Complexity"
+        [[params.skills.list.items]]
+        details = "Discrete Mathematics"
+        [[params.skills.list.items]]
+        details = "Programming Languages & Compiler Construction"
+
+
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
         details = "Agile Principles (SCRUM)"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "Team Player"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
-
-        [[params.skills.list]]
-        title = "Informatics"
-        [[params.skills.list.items]]
-        details = "Effective communication"
-        [[params.skills.list.items]]
-
+        details = "Strong Problem Solver"
     [params.education]
         enable = true
 
@@ -118,7 +124,8 @@ googleAnalytics = "UA-163506805-1"
 
     [params.summary]
         enable = true
-        text = "xxxxxxx"
+        textp1 = "Hei Hei! I am a Software Developer and Junior PLM Consultant from Munich." 
+        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich focusing on Theoretical Computer Science" 
 
     [params.experience]
         enable = true
@@ -126,63 +133,92 @@ googleAnalytics = "UA-163506805-1"
         [[params.experience.list]]
         title = "Junior IT Consultant PLM"
         dates = "2018 - Present"
-        company = "Atos Information Technology"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        company = "Atos Information Technologies GmbH"
+        details = "Consultancy and development of customer specific solutions for the PLM Suite <i>Siemens Teamcenter</i>, especially for big customers in the automotive industry."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Development & Support of tools for converting, rendering and validatingof media files in Teamcenter processes"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
-        [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
-
+        details = "Teamcenter Customization"
 
         [[params.experience.list]]
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and organisation of workshops"
 
         [[params.experience.list]]
-        title = "Dualer Study Degree Program"
+        title = "Dual Study Degree Program"
         dates = "2015 - 2018"
-        company = "Atos Information Technology"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        company = "Atos Information Technologies Gmbh, Munich"
+        details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis)"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Development of an Outlook Add-In to simplify and speed up the joining of mobile Skype conferences"
+        [[params.experience.list.items]]
+        details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
+
+        [[params.experience.list]]
+        title = "Seminars"
+        dates = "2015 - 2018"
+        company = "Siemens Professional Education (SPE), Paderborn"
+        details = "Accompanying to my Dual Study Degree program I took part in many seminars hosted by SPE in Paderborn"
+        [[params.experience.list.items]]
+        details = "Communication Skills: Four courses for personal development and improving presentation skills"
+        [[params.experience.list.items]]
+        details = "Technical Skills: Office, SAP, SAP ABAP"
+        [[params.experience.list.items]]
+        details = "Economics: Economics Basics, TOPSIM (Simulation)"
+
+
 
     [params.projects]
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
+        title = "Evluation eines IR Systems"
+        meta = "Bachelor Thesis"
         tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
+        title = "Entwicklung Sound PLugin SetlX"
+        meta = "Student Project"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
         [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
+        title = "Evaluation von Docker als "
+        meta = "Student Paper"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "Hackathon Project: Game of LIfe"
+        meta = "Hackdays MLP"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "Hackathon Project: Heidelberg Digital Assistant"
+        meta = "Hackdays Rhein-Neckar"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
     [params.information]
         enable = true
 
         [[params.information.list]]
-        title = "Papers"
+        title = "Professional Certifications"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "2018 · TOEFFL iBT (91) · ETS"
         [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
+        details = "2017 · LCCI Level 2 · LCCI"
+        [[params.information.list.items]]
+        details = "2016 · ITIL Foundation · APMG"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Piano, Volleyball, Reading"
+        details = "Piano, Volleyball, Reading, Table Soccer"
+
+        [[params.information.list]]
+        title = "Volunteering"
+        details = "Fachschaft MPI (Student Council)"
 
     [params.social]
         enable = true
