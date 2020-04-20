@@ -152,8 +152,8 @@ googleAnalytics = "UA-163506805-1"
         company = "Atos Information Technologies Gmbh, Munich"
         details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
         [[params.experience.list.items]]
-        details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis)"
-        [[params.experience.list.items]]
+        details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        [[params.experience.list.items]] 
         details = "Development of an Outlook Add-In to simplify and speed up the joining of mobile Skype conferences"
         [[params.experience.list.items]]
         details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
@@ -176,29 +176,24 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.projects.list]]
-        title = "Evluation eines IR Systems"
-        meta = "Bachelor Thesis"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.projects.list]]
-        title = "Entwicklung Sound PLugin SetlX"
+        title = "Development of a Sound-Plugin For the SetlX High Level Programming language"
         meta = "Student Project"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
         [[params.projects.list]]
-        title = "Evaluation von Docker als "
-        meta = "Student Paper"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "Evaluation of Docker As A Replacement for Traditional Virtualization Solutions in the PLM Area"
+        meta = "Student Project"
+        tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process"
+
+#        [[params.projects.list]]
+#        title = "Hackathon Project: Game of LIfe"
+#        meta = "Hackdays MLP"
+#        tagline = "Tinder-Like Gamificated "
 
         [[params.projects.list]]
-        title = "Hackathon Project: Game of LIfe"
-        meta = "Hackdays MLP"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-        [[params.projects.list]]
-        title = "Hackathon Project: Heidelberg Digital Assistant"
-        meta = "Hackdays Rhein-Neckar"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "Heidelberg Digital Assistant"
+        meta = "Hackdays Rhein-Neckar, Customer Centricity Award"
+        tagline = "Analysed Data to detect human errors in processes of the printing industry"
 
     [params.information]
         enable = true
