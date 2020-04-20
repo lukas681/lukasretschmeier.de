@@ -178,7 +178,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.projects.list]]
         title = "Development of a Sound-Plugin For the SetlX High Level Programming language"
         meta = "Student Project"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = ""
 
         [[params.projects.list]]
         title = "Evaluation of Docker As A Replacement for Traditional Virtualization Solutions in the PLM Area"
