@@ -77,7 +77,7 @@ googleAnalytics = "UA-163506805-1"
 
         [[params.education.list]]
         degree = "MSc in Computer Science"
-        university = "Technical University Mannheim"
+        university = "Technical University Munich"
         dates = "2019 - ongoing"
         [[params.education.list]]
         degree = "BSc in Computer Science (ECTS Grade A, 1.4)"
