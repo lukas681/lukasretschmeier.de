@@ -35,7 +35,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://www.lukasretschmeier.de"
-        text = "www.lukasretschmeier.de"
+        text = "www.lukasretsc  hmeier.de"
 
     [params.skills]
         enable = true
