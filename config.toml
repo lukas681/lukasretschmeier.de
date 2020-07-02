@@ -106,7 +106,7 @@ googleAnalytics = "UA-163506805-1"
             level = "Business Fluent, C1"
         [[params.languages.list]]
           name = "Norwegian"
-           level = ", Basics, A1"
+           level = "Basics, A1"
         [[params.languages.list]]
           name = "Latin"
            level = "Latinum"
@@ -126,7 +126,7 @@ googleAnalytics = "UA-163506805-1"
     [params.summary]
         enable = true
         textp1 = "Hei Hei! I am an Junior PLM Consultant from Munich." 
-        textp2 = "I love algorithms and therefore, I am also doing my Master's Degree in Informatics at TU Munich!" 
+        textp2 = "I love theoretical Informatics and therefore doing my Master's Degree at TU Munich!" 
 
     [params.experience]
         enable = true
