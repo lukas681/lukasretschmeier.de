@@ -43,16 +43,11 @@ googleAnalytics = "UA-163506805-1"
         [[params.skills.list]]
         title = "Core Competences"
         [[params.skills.list.items]]
-        details = "Agile Software Development: Java, JavaScript, C++"
+        details = "Agile Software Development: Java, JavaScript"
         [[params.skills.list.items]]
         details = "Teamcenter Customizing & Configuration"
         [[params.skills.list.items]]
         details = "Linux Systems & Containerization: Docker"
-        [[params.skills.list.items]]
-        details = "Fullstack Webdevelopment: React, Express"
-        [[params.skills.list.items]]
-        details = "IR Systems & Search Engines: Elastic Stack"
-        
 
         [[params.skills.list]]
         title = "Academic"
@@ -64,14 +59,15 @@ googleAnalytics = "UA-163506805-1"
         details = "Programming Languages & Compiler Construction"
 
 
-        [[params.skills.list]]
-        title = "Professional"
-        [[params.skills.list.items]]
-        details = "Agile Principles (SCRUM)"
-        [[params.skills.list.items]]
-        details = "Team Player"
-        [[params.skills.list.items]]
-        details = "Strong Problem Solver"
+        # [[params.skills.list]]
+        # title = "Professional"
+        # [[params.skills.list.items]]
+        # details = "Agile Principles (SCRUM)"
+        # [[params.skills.list.items]]
+        # details = "Team Player"
+        # [[params.skills.list.items]]
+        # details = "Strong Problem Solver"
+
     [params.education]
         enable = true
 
