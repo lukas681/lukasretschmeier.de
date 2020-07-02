@@ -143,7 +143,7 @@ googleAnalytics = "UA-163506805-1"
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and organisation of workshops."
+        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and Organisation of workshops."
 
         [[params.experience.list]]
         title = "Dual Study Degree Program"
@@ -159,13 +159,13 @@ googleAnalytics = "UA-163506805-1"
         title = "Seminars"
         dates = "2015 - 2018"
         company = "Siemens Professional Education (SPE), Paderborn"
-        details = "Accompanying to my Dual Study Degree program I took part in many seminars hosted by SPE in Paderborn"
-        [[params.experience.list.items]]
-        details = "Communication Skills: Four courses for personal development and improving presentation skills"
-        [[params.experience.list.items]]
-        details = "Technical Skills: Office, SAP, SAP ABAP"
-        [[params.experience.list.items]]
-        details = "Economics: Economics Basics, TOPSIM (Simulation)"
+        details = "Along my Dual Study Degree program taking part in seminars about communication, economics and technical topics"
+        # [[params.experience.list.items]]
+        # details = "Communication Skills: Four courses for personal development and improving presentation skills"
+        # [[params.experience.list.items]]
+        # details = "Technical Skills: Office, SAP, SAP ABAP"
+        # [[params.experience.list.items]]
+        # details = "Economics: Economics Basics, TOPSIM (Simulation)"
 
 
 
@@ -173,14 +173,14 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.projects.list]]
-        title = "Development of a Sound-Plugin For the SetlX High Level Programming language"
+        title = "Development of a Sound-Plugin for the SetlX High Level Programming language"
         meta = "Student Project"
         tagline = ""
 
         [[params.projects.list]]
         title = "Evaluation of Docker As A Replacement for Traditional Virtualization Solutions in the PLM Area"
         meta = "Student Project"
-        tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process"
+        tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process."
 
 #        [[params.projects.list]]
 #        title = "Hackathon Project: Game of LIfe"
@@ -190,7 +190,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.projects.list]]
         title = "Heidelberg Digital Assistant"
         meta = "Hackdays Rhein-Neckar, Customer Centricity Award"
-        tagline = "Analysed Data to detect human errors in processes of the printing industry"
+        tagline = "Analysed Data to detect human errors in processes of the printing industry."
 
     [params.information]
         enable = true
@@ -223,7 +223,5 @@ googleAnalytics = "UA-163506805-1"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/lukas-retschmeier-024a64117"
         title = "lukas-retschmeier"
-
-
 
 
