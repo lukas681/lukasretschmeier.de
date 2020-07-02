@@ -175,12 +175,12 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.projects.list]]
-        title = "Development of a Sound-Plugin for the SetlX High Level Programming language"
+        title = "Development of a sound-plugin for the SetlX programming language"
         meta = "Student Project"
         tagline = ""
 
         [[params.projects.list]]
-        title = "Evaluation of Docker As A Replacement for Traditional Virtualization Solutions in the PLM Area"
+        title = "Docker as a replacement for traditional virtualization solutions in the PLM area"
         meta = "Student Project"
         tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process."
 
