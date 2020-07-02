@@ -35,7 +35,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://www.lukasretschmeier.de"
-        text = "www.lukasretsc  hmeier.de"
+        text = "www.lukasretschmeier.de"
 
     [params.skills]
         enable = true
@@ -124,7 +124,7 @@ googleAnalytics = "UA-163506805-1"
     [params.summary]
         enable = true
         textp1 = "Hei Hei! I am an Junior PLM Consultant from Munich." 
-        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich" 
+        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich!" 
 
     [params.experience]
         enable = true
