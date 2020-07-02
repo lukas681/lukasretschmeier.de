@@ -109,6 +109,9 @@ googleAnalytics = "UA-163506805-1"
             name = "English"
             level = "Business Fluent, C1"
         [[params.languages.list]]
+          name = "Norwegian"
+           level = ", Basics, A1"
+        [[params.languages.list]]
           name = "Latin"
            level = "Latinum"
 
@@ -124,8 +127,8 @@ googleAnalytics = "UA-163506805-1"
 
     [params.summary]
         enable = true
-        textp1 = "Hei Hei! I am a Software Developer and Junior PLM Consultant from Munich." 
-        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich focusing on Theoretical Computer Science" 
+        textp1 = "Hei Hei! I am an Junior PLM Consultant from Munich." 
+        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich" 
 
     [params.experience]
         enable = true
@@ -144,7 +147,7 @@ googleAnalytics = "UA-163506805-1"
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and organisation of workshops"
+        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and organisation of workshops."
 
         [[params.experience.list]]
         title = "Dual Study Degree Program"
@@ -153,8 +156,6 @@ googleAnalytics = "UA-163506805-1"
         details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
         [[params.experience.list.items]]
         details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
-        [[params.experience.list.items]] 
-        details = "Development of an Outlook Add-In to simplify and speed up the joining of mobile Skype conferences"
         [[params.experience.list.items]]
         details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
 
