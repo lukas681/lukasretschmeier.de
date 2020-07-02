@@ -93,7 +93,7 @@ googleAnalytics = "UA-163506805-1"
         date = "2018"
         [[params.awards.list]]
         name = "Deutscher Musikrat"
-        body = "First Price regional competition Jugend Musiziert"
+        body = "First Price Regional Competition Jugend Musiziert"
         date = "2013"
 
     [params.languages]
@@ -120,6 +120,8 @@ googleAnalytics = "UA-163506805-1"
         name = "Volleyball"
         [[params.interests.list]]
         name = "Reading"
+        [[params.interests.list]]
+        name = "Table Soccer"
 
     [params.summary]
         enable = true
@@ -152,8 +154,8 @@ googleAnalytics = "UA-163506805-1"
         details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
         [[params.experience.list.items]]
         details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
-        [[params.experience.list.items]]
-        details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
+        # [[params.experience.list.items]]
+        # details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
 
         [[params.experience.list]]
         title = "Seminars"
@@ -204,9 +206,9 @@ googleAnalytics = "UA-163506805-1"
         [[params.information.list.items]]
         details = "2016 · ITIL Foundation · APMG"
 
-        [[params.information.list]]
-        title = "Interests"
-        details = "Piano, Volleyball, Reading, Table Soccer"
+        # [[params.information.list]]
+        # title = "Interests"
+        # details = "Piano, Volleyball, Reading, Table Soccer"
 
         [[params.information.list]]
         title = "Volunteering"
