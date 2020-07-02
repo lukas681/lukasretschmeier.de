@@ -49,14 +49,14 @@ googleAnalytics = "UA-163506805-1"
         [[params.skills.list.items]]
         details = "Linux Systems & Containerization: Docker"
 
-        [[params.skills.list]]
-        title = "Academic"
-        [[params.skills.list.items]]
-        details = "Algorithms, Datastructures & Complexity"
-        [[params.skills.list.items]]
-        details = "Discrete Mathematics"
-        [[params.skills.list.items]]
-        details = "Programming Languages & Compiler Construction"
+        # [[params.skills.list]]
+        # title = "Academic"
+        # [[params.skills.list.items]]
+        # details = "Algorithms, Datastructures & Complexity"
+        # [[params.skills.list.items]]
+        # details = "Discrete Mathematics"
+        # [[params.skills.list.items]]
+        # details = "Programming Languages & Compiler Construction"
 
 
         # [[params.skills.list]]
@@ -80,7 +80,7 @@ googleAnalytics = "UA-163506805-1"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
         dates = "2015 - 2018"
         [[params.education.list]]
-        degree = "A-Levels (1.8)"
+        degree = "A-Levels (1.9)"
         university = "Gymnasium Dingolfing"
         dates = "2007 - 2015"
 
@@ -124,7 +124,7 @@ googleAnalytics = "UA-163506805-1"
     [params.summary]
         enable = true
         textp1 = "Hei Hei! I am an Junior PLM Consultant from Munich." 
-        textp2 = "I am also doing my Master's Degree in Informatics at TU Munich!" 
+        textp2 = "I love algorithms and therefore, I am also doing my Master's Degree in Informatics at TU Munich!" 
 
     [params.experience]
         enable = true
