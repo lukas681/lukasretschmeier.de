@@ -45,9 +45,9 @@ googleAnalytics = "UA-163506805-1"
         [[params.skills.list.items]]
         details = "Agile Software Development"
         [[params.skills.list.items]]
-        details = "Teamcenter Customizing & Configuration"
+        details = "Siemens Teamcenter"
         [[params.skills.list.items]]
-        details = "Containerization: Docker"
+        details = "Docker"
 
         # [[params.skills.list]]
         # title = "Academic"
@@ -229,4 +229,6 @@ googleAnalytics = "UA-163506805-1"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/lukas-retschmeier-024a64117"
         title = "lukas-retschmeier"
-        
+   
+   [params.footer]
+    copyright = ""
