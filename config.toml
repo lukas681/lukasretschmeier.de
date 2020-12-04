@@ -230,5 +230,5 @@ googleAnalytics = "UA-163506805-1"
         url = "//linkedin.com/in/lukas-retschmeier-024a64117"
         title = "lukas-retschmeier"
    
-   [params.footer]
+    [params.footer]
     copyright = ""
