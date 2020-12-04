@@ -72,16 +72,20 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.education.list]]
-        degree = "Erasmus+"
-        university = "Universitetet i Bergen"
-        dates = "2020"
-        [[params.education.list]]
         degree = "MSc Computer Science"
         university = "Technical University Munich"
         dates = "2019 - ongoing"
         [[params.education.list]]
-        degree = "BSc Computer Science (ECTS Grade A, 1.4)"
+        degree = "Erasmus+"
+        university = "Universitetet i Bergen"
+        dates = "2020"
+        [[params.education.list]]
+        degree = "BSc Computer Science (A, 1.4)"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
+        dates = "2015 - 2018"
+        [[params.education.list]]
+        degree = "Seminars"
+        university = "Siemens Professional Education"
         dates = "2015 - 2018"
         [[params.education.list]]
         degree = "A-Levels (1.9)"
@@ -127,8 +131,7 @@ googleAnalytics = "UA-163506805-1"
 
     [params.summary]
         enable = true
-        textp1 = "Heisann! Weclome to my Homepage" 
-        textp2 = "" 
+        textp1 = "Heisann! I am a Developer from Munich. I love PLM and Algorithms" 
 
     [params.experience]
         enable = true
@@ -158,11 +161,11 @@ googleAnalytics = "UA-163506805-1"
         # [[params.experience.list.items]]
         # details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
 
-        [[params.experience.list]]
-        title = "Seminars"
-        dates = "2015 - 2018"
-        company = "Siemens Professional Education (SPE), Paderborn"
-        details = "Along my Dual Study Degree program taking part in seminars about communication, economics and technical topics"
+        # [[params.experience.list]]
+        # title = "Seminars"
+        # dates = "2015 - 2018"
+        # company = "Siemens Professional Education , Paderborn"
+        # details = "Along my Dual Study Degree program taking part in seminars about communication, economics and technical topics"
         # [[params.experience.list.items]]
         # details = "Communication Skills: Four courses for personal development and improving presentation skills"
         # [[params.experience.list.items]]
