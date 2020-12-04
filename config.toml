@@ -17,7 +17,7 @@ googleAnalytics = "UA-163506805-1"
     [params.profile]
         enable = true
         name = "Lukas Retschmeier"
-        tagline = "Junior IT Consultant PLM, Developer"
+        tagline = "Junior IT Consultant PLM & Developer"
         avatar = "avatar.png"
 
     [params.contact]
@@ -72,15 +72,15 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc Computer Science"
+        degree = "M.Sc. Computer Science"
         university = "Technical University Munich"
         dates = "2019 - ongoing"
         [[params.education.list]]
         degree = "Erasmus+"
         university = "Universitetet i Bergen"
-        dates = "2020"
+        dates = "Winter 2020"
         [[params.education.list]]
-        degree = "BSc Computer Science (A, 1.4)"
+        degree = "B.Sc. Computer Science (A, 1.4)"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
         dates = "2015 - 2018"
         [[params.education.list]]
