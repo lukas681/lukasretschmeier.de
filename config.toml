@@ -43,11 +43,11 @@ googleAnalytics = "UA-163506805-1"
         [[params.skills.list]]
         title = "Core Competences"
         [[params.skills.list.items]]
-        details = "Agile Software Development: Java, JavaScript"
+        details = "Agile Software Development"
         [[params.skills.list.items]]
         details = "Teamcenter Customizing & Configuration"
         [[params.skills.list.items]]
-        details = "Linux Systems & Containerization: Docker"
+        details = "Containerization: Docker"
 
         # [[params.skills.list]]
         # title = "Academic"
@@ -72,11 +72,15 @@ googleAnalytics = "UA-163506805-1"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
+        degree = "Erasmus+"
+        university = "Universitetet i Bergen"
+        dates = "2020"
+        [[params.education.list]]
+        degree = "MSc Computer Science"
         university = "Technical University Munich"
         dates = "2019 - ongoing"
         [[params.education.list]]
-        degree = "BSc in Computer Science (ECTS Grade A, 1.4)"
+        degree = "BSc Computer Science (ECTS Grade A, 1.4)"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
         dates = "2015 - 2018"
         [[params.education.list]]
@@ -106,7 +110,7 @@ googleAnalytics = "UA-163506805-1"
             level = "Business Fluent, C1"
         [[params.languages.list]]
           name = "Norwegian"
-           level = "Basics, A1"
+           level = "Good Knowledge, B1"
         [[params.languages.list]]
           name = "Latin"
            level = "Latinum"
@@ -120,13 +124,11 @@ googleAnalytics = "UA-163506805-1"
         name = "Volleyball"
         [[params.interests.list]]
         name = "Reading"
-        [[params.interests.list]]
-        name = "Table Soccer"
 
     [params.summary]
         enable = true
-        textp1 = "Hei Hei! I am an Junior PLM Consultant from Munich." 
-        textp2 = "I love theoretical Informatics and therefore doing my Master's Degree at TU Munich!" 
+        textp1 = "Heisann! Weclome to my Homepage" 
+        textp2 = "" 
 
     [params.experience]
         enable = true
@@ -135,25 +137,24 @@ googleAnalytics = "UA-163506805-1"
         title = "Junior IT Consultant PLM"
         dates = "2018 - Present"
         company = "Atos Information Technologies GmbH"
-        details = "Consultancy and development of customer specific solutions for the PLM Suite <i>Siemens Teamcenter</i>, especially for big customers in the automotive industry."
-        [[params.experience.list.items]]
-        details = "Development & Support of tools for converting, rendering and validatingof media files in Teamcenter processes"
-        [[params.experience.list.items]]
-        details = "Teamcenter Customization"
+        details = "Consultancy and development around the PLM Suite <i>Siemens Teamcenter</i> for the automotive and aerospace industry."#
+        # [[params.experience.list.items]]
+        # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
+        # [[params.experience.list.items]]
+        # details = "Teamcenter Customization"
 
         [[params.experience.list]]
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Support of a project focusing on mathematical didactic. Development and Implementation of mathematical excersizes with individual feedback (STACK); Attending and Organisation of workshops."
+        details = "Supporting the optes project. Development and Implementation of mathematical excersizes with Stack. Attended and organized workshops."
 
         [[params.experience.list]]
         title = "Dual Study Degree Program"
         dates = "2015 - 2018"
         company = "Atos Information Technologies Gmbh, Munich"
         details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
-        [[params.experience.list.items]]
-        details = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        #[[params.experience.list.items]]
         # [[params.experience.list.items]]
         # details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
 
@@ -173,14 +174,16 @@ googleAnalytics = "UA-163506805-1"
 
     [params.projects]
         enable = true
-
         [[params.projects.list]]
-        title = "Development of a sound-plugin for the SetlX programming language"
+        title = "Entwicklung und Evaluation eines Information Retrieval Systems für die Unterstützung des Betriebs von PLM Systemen
+        meta = "Bachelor Thesis"
+        tagline = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        [[params.projects.list]]
+        title = "Development of a Sound-Plugin for the SetlX Programming Language"
         meta = "Student Project"
         tagline = ""
-
         [[params.projects.list]]
-        title = "Docker as a replacement for traditional virtualization solutions in the PLM area"
+        title = "Docker as a Replacement for Traditional Virtualization Techniques in PLM"
         meta = "Student Project"
         tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process."
 
@@ -191,10 +194,10 @@ googleAnalytics = "UA-163506805-1"
 
         [[params.projects.list]]
         title = "Heidelberg Digital Assistant"
-        meta = "Hackdays Rhein-Neckar, Customer Centricity Award"
-        tagline = "Analysed Data to detect human errors in processes of the printing industry."
+        meta = "Hackdays Rhein-Neckar"
+        tagline = "Analysed Data to detect human errors in processes of the printing industry. We won the Customer Centricity Award for our work."
 
-    [params.information]
+        [params.information]
         enable = true
 
         [[params.information.list]]
@@ -211,7 +214,7 @@ googleAnalytics = "UA-163506805-1"
         # details = "Piano, Volleyball, Reading, Table Soccer"
 
         [[params.information.list]]
-        title = "Volunteering"
+        title = "Voluntary"
         details = "Fachschaft MPI (Student Council)"
 
     [params.social]
@@ -225,5 +228,4 @@ googleAnalytics = "UA-163506805-1"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/lukas-retschmeier-024a64117"
         title = "lukas-retschmeier"
-
-
+        
