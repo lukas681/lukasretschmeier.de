@@ -175,7 +175,7 @@ googleAnalytics = "UA-163506805-1"
     [params.projects]
         enable = true
         [[params.projects.list]]
-        title = "Entwicklung und Evaluation eines Information Retrieval Systems für die Unterstützung des Betriebs von PLM Systemen
+        title = "Entwicklung und Evaluation eines Information Retrieval Systems für die Unterstützung des Betriebs von PLM Systemen"
         meta = "Bachelor Thesis"
         tagline = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
         [[params.projects.list]]
