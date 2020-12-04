@@ -114,7 +114,7 @@ googleAnalytics = "UA-163506805-1"
             level = "Business Fluent, C1"
         [[params.languages.list]]
           name = "Norwegian"
-           level = "Good Knowledge, B1"
+           level = "Good, B1"
         [[params.languages.list]]
           name = "Latin"
            level = "Latinum"
@@ -173,16 +173,14 @@ googleAnalytics = "UA-163506805-1"
         # [[params.experience.list.items]]
         # details = "Economics: Economics Basics, TOPSIM (Simulation)"
 
-
-
     [params.projects]
         enable = true
         [[params.projects.list]]
-        title = "Entwicklung und Evaluation eines Information Retrieval Systems für die Unterstützung des Betriebs von PLM Systemen"
+        title = "Entwicklung und Evaluation eines Information Retrieval Systems"
         meta = "Bachelor Thesis"
-        tagline = "Development of an internal real-time full-text search engine accross multiple independend data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        tagline = "Development of an a real-time full-text search engine for searching accross multiple  data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
         [[params.projects.list]]
-        title = "Development of a Sound-Plugin for the SetlX Programming Language"
+        title = "Development of a Sound-Plugin for SetlX"
         meta = "Student Project"
         tagline = ""
         [[params.projects.list]]
