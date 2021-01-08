@@ -167,18 +167,19 @@ googleAnalytics = "UA-163506805-1"
 
     [params.projects]
         enable = true
-        [[params.projects.list]]
-        title = "Entwicklung und Evaluation eines Information Retrieval Systems"
-        meta = "Bachelor Thesis"
-        tagline = "<b>Test</b> Development of an a real-time full-text search engine for searching accross multiple  data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
-        [[params.projects.list]]
-        title = "Development of a Sound-Plugin for SetlX"
-        meta = "Student Project"
-        tagline = ""
-        [[params.projects.list]]
-        title = "Docker as a Replacement for Traditional Virtualization Techniques in PLM"
-        meta = "Student Project"
-        tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process."
+        ## INFORMATION: These projects are now defined in the hugo template under static/projects. Reason is that only this way we can link to the document itself
+        #[[params.projects.list]]
+        #title = "Entwicklung und Evaluation eines Information Retrieval Systems"
+        #meta = "Bachelor Thesis"
+        #tagline = "<b>Test</b> Development of an a real-time full-text search engine for searching accross multiple  data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        #[[params.projects.list]]
+        #title = "Development of a Sound-Plugin for SetlX"
+        #meta = "Student Project"
+        #tagline = ""
+        #[[params.projects.list]]
+        #title = "Docker as a Replacement for Traditional Virtualization Techniques in PLM"
+        #meta = "Student Project"
+        #tagline = "Investigated how Teamcenter can possibly be containerized to speed up the development process."
 
 #        [[params.projects.list]]
 #        title = "Hackathon Project: Game of LIfe"
