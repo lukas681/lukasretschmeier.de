@@ -47,27 +47,15 @@ googleAnalytics = "UA-163506805-1"
         [[params.skills.list.items]]
         details = "Siemens Teamcenter"
         [[params.skills.list.items]]
-        details = "Docker"
+        details = "Containerization"
 
-        # [[params.skills.list]]
-        # title = "Academic"
-        # [[params.skills.list.items]]
-        # details = "Algorithms, Datastructures & Complexity"
-        # [[params.skills.list.items]]
-        # details = "Discrete Mathematics"
-        # [[params.skills.list.items]]
-        # details = "Programming Languages & Compiler Construction"
-
-
-        # [[params.skills.list]]
-        # title = "Professional"
-        # [[params.skills.list.items]]
-        # details = "Agile Principles (SCRUM)"
-        # [[params.skills.list.items]]
-        # details = "Team Player"
-        # [[params.skills.list.items]]
-        # details = "Strong Problem Solver"
-
+        [[params.skills.list]]
+        title = "Academic"
+        [[params.skills.list.items]]
+        details = "Computational Complexity"
+        [[params.skills.list.items]]
+        details = "Algorithms"
+        
     [params.education]
         enable = true
 
@@ -131,7 +119,7 @@ googleAnalytics = "UA-163506805-1"
 
     [params.summary]
         enable = true
-        textp1 = "Heisann! I am a Developer from Munich. I love PLM and Algorithms" 
+        textp1 = "Heisann! I am a Software Developer from Munich. I love both PLM and Algorithms" 
 
     [params.experience]
         enable = true
@@ -208,7 +196,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.information.list.items]]
         details = "2018 · TOEFFL iBT (91) · ETS"
         [[params.information.list.items]]
-        details = "2017 · LCCI Level 2 · LCCI"
+        details = "2017 · LCCI Level 2 (Pass with Distinction)· LCCI"
         [[params.information.list.items]]
         details = "2016 · ITIL Foundation · APMG"
 
@@ -230,7 +218,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/lukas-retschmeier-024a64117"
-        title = "lukas-retschmeier"
+        title = "Lukas Retschmeier"
    
-    [params.footer]
-    copyright = ""
+#    [params.footer]
+#    copyright = ""
