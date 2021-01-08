@@ -204,6 +204,8 @@ googleAnalytics = "UA-163506805-1"
         [[params.information.list]]
         title = "Professional Certifications"
         [[params.information.list.items]]
+        details = "2020 · Assessment (C1) · OLS"
+        [[params.information.list.items]]
         details = "2018 · TOEFFL iBT (91) · ETS"
         [[params.information.list.items]]
         details = "2017 · LCCI Level 2 · LCCI"
