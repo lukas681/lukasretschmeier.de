@@ -184,7 +184,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.projects.list]]
         title = "Entwicklung und Evaluation eines Information Retrieval Systems"
         meta = "Bachelor Thesis"
-        tagline = "{{< ref "T2000" >}} Development of an a real-time full-text search engine for searching accross multiple  data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
+        tagline = "{{< ref 'T2000' >}} Development of an a real-time full-text search engine for searching accross multiple  data sources with ElasticSearch to simplify the operation of PLM Systems (Bachelor Thesis, 1.0)" 
         [[params.projects.list]]
         title = "Development of a Sound-Plugin for SetlX"
         meta = "Student Project"
