@@ -15,7 +15,7 @@ googleAnalytics = "UA-163506805-1"
     author = "Lukas Retschmeier"
     description = "Lukas Retschmeier CV"
 
-    primaryColor = "#FF6460"
+    primaryColor = "#3873B3"
     textPrimaryColor = "#292929"
 
     [params.profile]
