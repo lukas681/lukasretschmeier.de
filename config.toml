@@ -15,7 +15,7 @@ googleAnalytics = "UA-163506805-1"
     author = "Lukas Retschmeier"
     description = "Lukas Retschmeier CV"
 
-    primaryColor = "#FF6460"
+    primaryColor = "#3873B3"
     textPrimaryColor = "#292929"
 
     [params.profile]
@@ -31,7 +31,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:+4915254548176"
-        text = "1525 45 48 176"
+        text = "0049 1525 45 48 176"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:retschmeier.lukas@gmail.com"
@@ -72,7 +72,7 @@ googleAnalytics = "UA-163506805-1"
         university = "Universitetet i Bergen"
         dates = "Winter 2020"
         [[params.education.list]]
-        degree = "B.Sc. Computer Science (A, 1.4)"
+        degree = "B.Sc. Computer Science (1.4,A)"
         university = "Duale Hochschule Baden-Württemberg Mannheim"
         dates = "2015 - 2018"
         [[params.education.list]]
@@ -119,7 +119,9 @@ googleAnalytics = "UA-163506805-1"
         [[params.interests.list]]
         name = "Volleyball"
         [[params.interests.list]]
-        name = "Reading"
+        name = "Table Soccer"
+        [[params.interests.list]]
+        name = "Speedcubing"
 
     [params.summary]
         enable = true
@@ -131,7 +133,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.experience.list]]
         title = "Junior IT Consultant PLM"
         dates = "2018 - Present"
-        company = "Atos Information Technologies GmbH"
+        company = "Atos Information Technologies GmbH, Munich"
         details = "Consultancy and development around the PLM Suite <i>Siemens Teamcenter</i> for the automotive and aerospace industry."
         # [[params.experience.list.items]]
         # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
@@ -142,13 +144,13 @@ googleAnalytics = "UA-163506805-1"
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Supporting the optes project. Development and Implementation of mathematical excersizes with Stack. Attended and organized workshops."
+        details = "Supporting the germany optes research project. Creation and implementation of mathematical excersizes with Stack. Attended and helped organizing workshops."
 
         [[params.experience.list]]
         title = "Dual Study Degree Program"
         dates = "2015 - 2018"
         company = "Atos Information Technologies Gmbh, Munich"
-        details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished and the following work have been done:"
+        details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished."
         #[[params.experience.list.items]]
         # [[params.experience.list.items]]
         # details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
