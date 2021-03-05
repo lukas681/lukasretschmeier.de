@@ -34,8 +34,8 @@ googleAnalytics = "UA-163506805-1"
         text = "0049 1525 45 48 176"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:retschmeier.lukas@gmail.com"
-        text = "retschmeier.lukas@gmail.com"
+        url = "mailto:lukas@lukasretschmeier.de"
+        text = "lukas@lukasretschmeier.de"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://www.lukasretschmeier.de"
