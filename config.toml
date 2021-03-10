@@ -120,8 +120,6 @@ googleAnalytics = "UA-163506805-1"
         name = "Volleyball"
         [[params.interests.list]]
         name = "Table Soccer"
-        [[params.interests.list]]
-        name = "Speedcubing"
 
     [params.summary]
         enable = true
