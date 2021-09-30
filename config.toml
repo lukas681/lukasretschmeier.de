@@ -21,8 +21,8 @@ googleAnalytics = "UA-163506805-1"
     [params.profile]
         enable = true
         name = "Lukas Retschmeier"
-        tagline = "Junior IT Consultant PLM & Developer"
-        avatar = "avatar.png"
+        tagline = "Junior IT Consultant PLM"
+        avatar = "avatar.jpg"
 
     [params.contact]
         enable = true
