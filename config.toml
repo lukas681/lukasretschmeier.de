@@ -133,24 +133,35 @@ googleAnalytics = "UA-163506805-1"
         [[params.experience.list]]
         title = "IT Consultant PLM"
         dates = "2018 - Present"
-        company = "Atos Information Technologies GmbH, Munich"
-        details = "Consultancy and development around the PLM Suite <i>Siemens Teamcenter</i> for the automotive and aerospace industry. You can find my project experience in my CV below."
+        company = "Atos Inform. Techn. GmbH, Munich"
+        details = "PLM Consulting and Implementation around <i>Siemens Teamcenter</i> for the automotive and aerospace industry. You can find my professional project experience in my CV below."
+        # [[params.experience.list.items]]
+        # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
+        # [[params.experience.list.items]]
+
+        #[[params.experience.list]]
+        title = "Junior IT Consultant PLM"
+        dates = "2018 - 2022"
+        company = "Atos, Munich"
+        details = ""
         # [[params.experience.list.items]]
         # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
         # [[params.experience.list.items]]
         # details = "Teamcenter Customization"
 
+ details = "Teamcenter Customization"
+
         [[params.experience.list]]
         title = "Student Research Assistant"
         dates = "2016 - 2018"
         company = "Optes"
-        details = "Supporting the germany optes research project. Creation and implementation of mathematical excersizes with Stack. Attended and helped organizing workshops."
+        details = "Created mathematical problems for first-year students with individual feedback."
 
         [[params.experience.list]]
         title = "Dual Study Degree Program"
         dates = "2015 - 2018"
         company = "Atos Information Technologies Gmbh, Munich"
-        details = "Practical phases in different departments alternating every three months with theory phases at the DHBW Mannheim. Practical phases in Managed Services, SAP, Product Lifecycle Management and Enterprise Content Management have been accomplished."
+        details = "Studying in Mannheim and Working in Munich."
         #[[params.experience.list.items]]
         # [[params.experience.list.items]]
         # details = "Evaluation of Docker as a replacement of classical virtualization techniques for the PLM software Siemens Teamcenter"
