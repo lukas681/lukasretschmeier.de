@@ -21,7 +21,7 @@ googleAnalytics = "UA-163506805-1"
     [params.profile]
         enable = true
         name = "Lukas Retschmeier"
-        tagline = "Junior IT Consultant PLM"
+        tagline = "IT Consultant PLM"
         avatar = "avatar.jpg"
 
     [params.contact]
@@ -68,7 +68,11 @@ googleAnalytics = "UA-163506805-1"
         university = "Technical University Munich"
         dates = "2019 - ongoing"
         [[params.education.list]]
-        degree = "Erasmus+"
+        degree = "Erasmus+ Traineeship"
+        university = "ITU Copenhagen"
+        dates = "Sommer 2022"
+        [[params.education.list]]
+        degree = "Erasmus+ Semester"
         university = "Universitetet i Bergen"
         dates = "Winter 2020"
         [[params.education.list]]
@@ -82,7 +86,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.education.list]]
         degree = "A-Levels (1.9)"
         university = "Gymnasium Dingolfing"
-        dates = "2007 - 2015"
+        dates = "2015"
 
     [params.awards]
         enable = true
@@ -118,18 +122,16 @@ googleAnalytics = "UA-163506805-1"
         name = "Piano"
         [[params.interests.list]]
         name = "Volleyball"
-        [[params.interests.list]]
-        name = "Table Soccer"
 
     [params.summary]
         enable = true
-        textp1 = "Heisann! I am a Software Developer from Munich. I love both PLM and Algorithms" 
+        textp1 = "Heisann!" 
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Junior IT Consultant PLM"
+        title = "IT Consultant PLM"
         dates = "2018 - Present"
         company = "Atos Information Technologies GmbH, Munich"
         details = "Consultancy and development around the PLM Suite <i>Siemens Teamcenter</i> for the automotive and aerospace industry. You can find my project experience in my CV below."
@@ -197,7 +199,7 @@ googleAnalytics = "UA-163506805-1"
         [[params.information.list]]
         title = "Professional Certifications"
         [[params.information.list.items]]
-        details = "2020 · Assessment (C1) · OLS"
+        details = "2021 · Assessment (C1) · OLS"
         [[params.information.list.items]]
         details = "2018 · TOEFFL iBT (91) · ETS"
         [[params.information.list.items]]
