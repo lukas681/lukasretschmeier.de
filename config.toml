@@ -135,21 +135,12 @@ googleAnalytics = "UA-163506805-1"
         dates = "2018 - Present"
         company = "Atos Inform. Techn. GmbH, Munich"
         details = "PLM Consulting and Implementation around <i>Siemens Teamcenter</i> for the automotive and aerospace industry. You can find my professional project experience in my CV below."
-        # [[params.experience.list.items]]
-        # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
-        # [[params.experience.list.items]]
 
-        #[[params.experience.list]]
+        [[params.experience.list]]
         title = "Junior IT Consultant PLM"
         dates = "2018 - 2022"
         company = "Atos, Munich"
         details = ""
-        # [[params.experience.list.items]]
-        # details = "Development & Support of tools for converting, rendering and validating of media files in Teamcenter processes"
-        # [[params.experience.list.items]]
-        # details = "Teamcenter Customization"
-
- details = "Teamcenter Customization"
 
         [[params.experience.list]]
         title = "Student Research Assistant"
